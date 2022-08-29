@@ -1,6 +1,4 @@
-<div id="header" align="center"><img src="https://drive.google.com/file/d/1rS-RVIzQs6D3e5Iu-VDOpKQfVMdBTAL4/view?usp=sharing" width="100%">
-</div>
-
+![Header](./assets/header.png)
 
 <h1 align="center">Hi 👋, I'm AJIT KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
