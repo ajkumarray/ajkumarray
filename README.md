@@ -1,11 +1,13 @@
 ![Header](./assets/header.png)
 
 <h1 align="center">Hi 👋, I'm AJIT KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A final year engineering undergrad at Birla Institute of Technology, Mesra.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajkumarray&label=Profile%20views&color=0e75b6&style=flat" alt="ajkumarray" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajkumarray" alt="ajkumarray" /></a> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ajkumarray/"><img src="https://img.shields.io/badge/-Ajit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajkumarray/"></a>
+<a href="https://github.com/ajkumarray"><img src="https://img.shields.io/github/followers/ajkumarray?label=follow&style=social"></a>
+<img src="https://gpvc.arturio.dev/ajkumarray">
+</p>
 
 - 🔭 I’m currently working on [ABC](github.com)
 
