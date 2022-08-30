@@ -16,7 +16,7 @@
 
 I am a fresher interested in the domain of Software development, currently developing and learning in the field of Web Development with MERN stack. I am skilled with C/C++, HTML/CSS, Javascript, ReactJs and having basic knowledge of NodeJs and ExpressJs. I am also interested in the domain of Machine Learning and Artificial Intelligence. I actively participate in Competitive Coding Contests on Leetcode.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Don't hold back!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Don't hold back!</b>😊</em>
 
 - 💬 Ask me about anything [here](https://github.com/ajkumarray/ajkumarray/issues)
 - 📫 Drop a mail: [ajkumarrayoff@gmail.com](mailto:ajkumarrayoff@gmail.com)
