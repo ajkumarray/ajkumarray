@@ -37,12 +37,5 @@ I am a fresher interested in the domain of Software development, currently devel
 <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 </p>
 
----
-
-- 🔭 I’m currently working on [ABC](github.com)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkumarray&show_icons=true&locale=en&layout=compact" alt="ajkumarray" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajkumarray&show_icons=true&locale=en" alt="ajkumarray" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkumarray&" alt="ajkumarray" /></p>
+| <a href="https://github.com/ajkumarray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajkumarray&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ajit's github stats" /></a> | <a href="https://github.com/ajkumarray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajkumarray&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/ajkumarray/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkumarray&"></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
