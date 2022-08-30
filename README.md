@@ -9,6 +9,8 @@
 <img src="https://gpvc.arturio.dev/ajkumarray">
 </p>
 
+I am a fresher interested in the domain of Software development, currently developing and learning in the field of Web Development with MERN stack. I am skilled with C/C++, HTML/CSS, Javascript, ReactJs and having basic knowledge of NodeJs and ExpressJs. I am also interested in the domain of Machine Learning and Artificial Intelligence. I actively participate in Competitive Coding Contests on Leetcode.
+
 - 🔭 I’m currently working on [ABC](github.com)
 
 <h3 align="left">Connect with me:</h3>
