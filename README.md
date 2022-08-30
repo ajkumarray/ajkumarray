@@ -1,7 +1,7 @@
 ![Header](./assets/header.png)
 
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm AJIT KUMAR</h1>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center" width="500">A final year undergrad at Birla Institute of Technology, Mesra pursuing Bachelor of Technology in Information Technology.</h3>
 
 ---
