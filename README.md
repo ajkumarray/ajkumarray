@@ -42,3 +42,12 @@ I am a fresher interested in the domain of Software development, currently devel
 
 | <a href="https://github.com/ajkumarray/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkumarray&"></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/ajkumarray/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajkumarray&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/ajkumarray.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajkumarray&repo=anuraghazra.github.io&theme=buefy" />
+</a>
