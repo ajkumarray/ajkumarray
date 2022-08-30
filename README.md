@@ -4,15 +4,21 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center">A final year undergrad at Birla Institute of Technology, Mesra pursuing Bachelor of Technology in Information Technology.</h3>
 
+---
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajkumarray?label=Follow)](https://twitter.com/intent/follow?screen_name=ajkumarray)
 [![Linkedin: Ajit](https://img.shields.io/badge/-Ajit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajkumarray/)](https://www.linkedin.com/in/ajkumarray/)
 ![GitHub followers](https://img.shields.io/github/followers/ajkumarray?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ajit-portfolio-ajkumarray.vercel.app/)](https://ajit-portfolio-ajkumarray.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ajkumarray.ajkumarray)
 
+---
+
 I am a fresher interested in the domain of Software development, currently developing and learning in the field of Web Development with MERN stack. I am skilled with C/C++, HTML/CSS, Javascript, ReactJs and having basic knowledge of NodeJs and ExpressJs. I am also interested in the domain of Machine Learning and Artificial Intelligence. I actively participate in Competitive Coding Contests on Leetcode.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 
 - 🔭 I’m currently working on [ABC](github.com)
 
