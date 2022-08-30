@@ -1,7 +1,7 @@
 ![Header](./assets/header.png)
 
 <h1 align="center">Hi 👋, I'm AJIT KUMAR</h1>
-<h3 align="center">A final year engineering undergrad at Birla Institute of Technology, Mesra.</h3>
+<h3 align="center">A final year undergrad at Birla Institute of Technology, Mesra pursuing Bachelor of Technology in Information Technology.</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ajkumarray/"><img src="https://img.shields.io/badge/-Ajit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajkumarray/"></a>
