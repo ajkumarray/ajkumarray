@@ -1,6 +1,6 @@
 ![Header](./assets/header.png)
 
-<h1 align="center">Hi 👋, I'm AJIT KUMAR</h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm AJIT KUMAR</h1>
 <h3 align="center">A final year undergrad at Birla Institute of Technology, Mesra pursuing Bachelor of Technology in Information Technology.</h3>
 
 <p align="center">
