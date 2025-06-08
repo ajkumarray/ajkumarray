@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Software Development Engineer with 2+ years of experience building scalable, modular systems using Angular, Spring Boot, and modern distributed architectures. Skilled in designing performant, maintainable applications that enhance both user experience and developer efficiency. Passionate about solving complex problems through clean architecture and thoughtful system design.
+Software Developer Engineer with 2+ years of experience building scalable, modular systems using Angular, Spring Boot, and modern distributed architectures. Skilled in designing performant, maintainable applications that enhance both user experience and developer efficiency. Passionate about solving complex problems through clean architecture and thoughtful system design.
 
 ---
 
