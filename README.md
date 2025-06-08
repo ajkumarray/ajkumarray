@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ajit Kumar
 
-**Software Development Engineer | Spring Boot | Angular | React | Java | Typescript | AWS**
+**Software Developer Engineer | Spring Boot | Angular | React | Java | Typescript | AWS**
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Development Engineer with 2+ years of experience building scalable, modular systems using Angular, Spring Boot, and modern distributed architectures. Skilled in designing performant, maintainable applications that enhance both user experience and developer efficiency. Passionate about solving complex problems through clean architecture and thoughtful system design.
+Software Developer Engineer with 2+ years of experience building scalable, modular systems using Angular, Spring Boot, and modern distributed architectures. Skilled in designing performant, maintainable applications that enhance both user experience and developer efficiency. Passionate about solving complex problems through clean architecture and thoughtful system design.
 
 ---
 
@@ -15,14 +15,14 @@ Software Development Engineer with 2+ years of experience building scalable, mod
 - **Languages:** Java, TypeScript, JavaScript
 - **Frameworks:** Spring Boot, Angular, React
 - **Cloud:** AWS
-- **Other:** REST APIs, Microservices, Distributed Systems, Clean Architecture, System Design
+- **Technologies:** Docker, Redis, gRPC, REST APIs, Microservices
 
 ---
 
 ## 🌟 Highlighted Projects
 
-- **Margdarshak:** [Project Description or link if public]
-- **Nirdeshak:** [Project Description or link if public]
+- **Margdarshak:** [@ajkumarray/margdarshak](https://github.com/ajkumarray/margdarshak)
+- **Nirdeshak:** [@ajkumarray/nirdeshak](https://github.com/ajkumarray/nirdeshak)
 
 ---
 
@@ -38,8 +38,8 @@ Software Development Engineer with 2+ years of experience building scalable, mod
 
 Feel free to reach out for collaboration or just to say hi!
 
-- [LinkedIn](#) <!-- (Replace # with your LinkedIn profile link) -->
-- [Email](#) <!-- (Replace # with your email) -->
+- [LinkedIn](https://www.linkedin.com/in/ajkumarray/)
+- [Email](mailto:ajkumarrayoff@gmail.com)
 
 ---
 
